@@ -1,1 +1,1 @@
-remix quickstart readme2
+remix quickstart readme

@@ -37,7 +37,7 @@ if (import.meta) {
     //@ts-expect-error
     "app/root.jsx"
   );
-  import.meta.hot.lastModified = "1704052962004.465";
+  import.meta.hot.lastModified = "1704137806874.3196";
 }
 function App() {
   return /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("html", { children: [
@@ -63,7 +63,7 @@ function App() {
       columnNumber: 9
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("body", { children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Hello world dynamic upon save4!" }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Hello world dynamic upon save!" }, void 0, false, {
         fileName: "app/root.jsx",
         lineNumber: 30,
         columnNumber: 11
@@ -102,4 +102,4 @@ window.$RefreshSig$ = prevRefreshSig;
 export {
   App as default
 };
-//# sourceMappingURL=/build/root-3ZZV7OAX.js.map
+//# sourceMappingURL=/build/root-QMR4WD44.js.map

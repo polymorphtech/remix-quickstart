@@ -159,7 +159,7 @@ function App() {
       columnNumber: 9
     }, this),
     /* @__PURE__ */ jsxDEV2("body", { children: [
-      /* @__PURE__ */ jsxDEV2("h1", { children: "Hello world dynamic upon save4!" }, void 0, !1, {
+      /* @__PURE__ */ jsxDEV2("h1", { children: "Hello world dynamic upon save!" }, void 0, !1, {
         fileName: "app/root.jsx",
         lineNumber: 21,
         columnNumber: 11
@@ -192,7 +192,7 @@ function App() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-I4C3QBBA.js", imports: ["/build/_shared/chunk-ZWGWGGVF.js", "/build/_shared/chunk-XU7DNSPJ.js", "/build/_shared/chunk-TC3775TN.js", "/build/_shared/chunk-ADTJXPS3.js", "/build/_shared/chunk-UWV35TSL.js", "/build/_shared/chunk-GIAAE3CH.js", "/build/_shared/chunk-BOXFZXVX.js", "/build/_shared/chunk-PNG5AS42.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-3ZZV7OAX.js", imports: void 0, hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 } }, version: "0e74288f", hmr: { runtime: "/build/_shared/chunk-ADTJXPS3.js", timestamp: 1704118418227 }, url: "/build/manifest-0E74288F.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-I4C3QBBA.js", imports: ["/build/_shared/chunk-ZWGWGGVF.js", "/build/_shared/chunk-XU7DNSPJ.js", "/build/_shared/chunk-TC3775TN.js", "/build/_shared/chunk-ADTJXPS3.js", "/build/_shared/chunk-UWV35TSL.js", "/build/_shared/chunk-GIAAE3CH.js", "/build/_shared/chunk-BOXFZXVX.js", "/build/_shared/chunk-PNG5AS42.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-QMR4WD44.js", imports: void 0, hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 } }, version: "b2ff7a8b", hmr: { runtime: "/build/_shared/chunk-ADTJXPS3.js", timestamp: 1704137808350 }, url: "/build/manifest-B2FF7A8B.js" };
 
 // server-entry-module:@remix-run/dev/server-build
 var mode = "development", assetsBuildDirectory = "public/build", future = { v3_fetcherPersist: !1, v3_relativeSplatPath: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {

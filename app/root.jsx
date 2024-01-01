@@ -18,7 +18,7 @@ import {
           <Links />
         </head>
         <body>
-          <h1>Hello world dynamic upon save4!</h1>
+          <h1>Hello world dynamic upon save!</h1>
           <Outlet />
   
           <Scripts />
